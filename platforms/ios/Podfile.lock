@@ -1,0 +1,29 @@
+PODS:
+  - ISMessages (1.2)
+  - MNFloatingActionButton (2.0.0)
+
+DEPENDENCIES:
+  - ISMessages (from `https://github.com/EddyVerbruggen/ISMessages.git`, commit `9cda6db2fcb11e62b0332eedb24dbefcbb69435f`)
+  - MNFloatingActionButton (~> 2.0)
+
+SPEC REPOS:
+  trunk:
+    - MNFloatingActionButton
+
+EXTERNAL SOURCES:
+  ISMessages:
+    :commit: 9cda6db2fcb11e62b0332eedb24dbefcbb69435f
+    :git: https://github.com/EddyVerbruggen/ISMessages.git
+
+CHECKOUT OPTIONS:
+  ISMessages:
+    :commit: 9cda6db2fcb11e62b0332eedb24dbefcbb69435f
+    :git: https://github.com/EddyVerbruggen/ISMessages.git
+
+SPEC CHECKSUMS:
+  ISMessages: 6ec1ed7029ff6ca516f2ac3e597bb9986a43e132
+  MNFloatingActionButton: 2ba0f3a2c8325552758e5596ad4ae7d64ba90026
+
+PODFILE CHECKSUM: 1b897039a3e22812e9786e51c5cdc3d05268ca97
+
+COCOAPODS: 1.8.4

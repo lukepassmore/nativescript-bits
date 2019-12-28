@@ -1,0 +1,12 @@
+use_frameworks!
+
+target "CRM" do
+# Begin Podfile - /Users/luke/Documents/Apps/NativeScript/CRM/node_modules/nativescript-feedback/platforms/ios/Podfile
+pod 'ISMessages', :git => 'https://github.com/EddyVerbruggen/ISMessages.git', :commit => '9cda6db2fcb11e62b0332eedb24dbefcbb69435f'
+# End Podfile
+
+# Begin Podfile - /Users/luke/Documents/Apps/NativeScript/CRM/node_modules/nativescript-floatingactionbutton/platforms/ios/Podfile
+pod 'MNFloatingActionButton', '~> 2.0'
+
+# End Podfile
+end
